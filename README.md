@@ -90,6 +90,87 @@ Welcome to my GitHub profile! I'm passionate about designing and implementing CI
 
 ---
 
+# 🧰 IT & System Administration Skills
+
+These highlight your background in classic IT infrastructure and support:
+
+- 🛠 **Troubleshooting hardware and software issues** across multiple environments.
+- 🧑‍💻 **Providing technical support** for office systems, productivity tools, and applications.
+- 🌐 **Diagnosing and resolving network connectivity issues**.
+- 🖥️ **Managing Windows Server Environments** including AD, DNS, DHCP, and Group Policy.
+- 👤 **User account and permission management** in Active Directory.
+- 🔐 **Configuring and maintaining ISA Server and Sophos Firewall** for secure network access.
+- ♻️ **Implementing backup and disaster recovery strategies**.
+- 📏 **Enforcing compliance** with IT policies and operational standards.
+
+---
+
+## 🏗️ Key DevOps Projects & Achievements
+
+### 🚀 Multi-Environment Setup with Isolated Databases
+
+Designed a complete **CI/CD architecture** using Azure Pipelines for 4 environments: Dev, Test, Preprod, Production.
+
+Each environment featured:
+- Separate **branch** (e.g., `dev`, `test`, `preprod`, `main`)
+- Unique **subdomain** (e.g., `dev.example.com`)
+- Dedicated **IIS Application Pool**
+- Isolated **SQL Server database**
+
+> ✅ Fully automated deployments triggered by branch events.
+
+---
+
+### 💻 .NET Core Web App Pipeline
+
+- Built a full CI/CD pipeline in **Azure Pipelines**.
+- Integrated **SonarQube** for code quality analysis and **unit testing**.
+- Used **custom appsettings** per environment.
+- Deployed to **Azure VMs** using Web Deploy.
+
+---
+
+## ⚛️ React Frontend Pipeline
+
+- Implemented a complete CI/CD pipeline using **Azure DevOps** for a React Single Page Application.
+- Deployed to **Azure VMs** with environment-specific settings and isolated SQL databases.
+- Configure environment variable key and value in pipeline.
+
+## 🅰️ Angular Frontend Pipeline
+
+- End-to-end CI/CD pipeline for Angular.
+- Configured isolated environments and environment-specific settings.
+
+### 🐍 ERP System (Python) CI/CD Pipeline
+
+- Developed CI/CD for a Python-based ERP system on **Ubuntu Server**.
+
+## 📱 Flutter Mobile CI/CD Pipeline
+
+- Fully automated CI/CD pipeline for **Flutter** mobile applications.
+- Key features:
+  - Builds **APK** (Android) and **IPA** (iOS) on push/merge events.
+  - Distributes builds using:
+    - **Firebase** for Android testers.
+    - **TestFlight** for iOS testers.
+  - Sends notifications via **SendGrid** to testers after successful builds.
+
+---
+
+## 🌐 IT Projects: Network Infrastructure
+
+### 🏢 Network Infrastructure Projects – Various Clients
+
+Designed and implemented full-scale **IT infrastructure** across 4 branch offices.
+
+Key responsibilities included:
+- Installing and configuring **racks, routers, switches, access points, and firewalls** (Sophos, Microtech).
+- Executing **cable crimping**, patch panel work, and network node setup.
+- Deploying and maintaining **UPS systems** for power continuity.
+- Ensured **secure, high-availability** networking across all branches.
+
+
+
 ![GitHub Profile Views](https://komarev.com/ghpvc/?username=Mostafa-Bendo&style=flat-square)
 
 ---
