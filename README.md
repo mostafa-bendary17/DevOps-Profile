@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I'm passionate about designing and implementing CI
 - 🌱 Lifelong learner exploring **cloud computing**, **containerization**, **DevSecOps**, and **infrastructure automation**.
 - 💼 Over **12 years of experience** in IT infrastructure, system administration, and DevOps engineering.
 - 📫 Reach me at: **your.email@example.com**  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mostafa-elbendary)  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mostafa-el-bendary/)  
   [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/YourHandle)
 
 ---
@@ -201,7 +201,7 @@ This program strengthens my expertise in securing and automating infrastructure,
 If you’re interested in working together or have any questions, feel free to reach out:
 
 - 📧 Email: mostafa.bendary1989@gmail.com
-- 💼 LinkedIn: [linkedin.com/in/your-profile](https://www.linkedin.com/in/mostafa-el-bendary/)  
+- 💼 LinkedIn: [My Linkedin Profile](https://www.linkedin.com/in/mostafa-el-bendary/)  
 - 💻 GitHub: [github.com/yourusername](https://github.com/yourusername)
 
 Thanks for checking out my portfolio!
