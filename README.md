@@ -169,6 +169,44 @@ Key responsibilities included:
 - Deploying and maintaining **UPS systems** for power continuity.
 - Ensured **secure, high-availability** networking across all branches.
 
+---
+---
+
+🎯 **Ongoing Certifications & DevSecOps Training**
+
+As part of my continuous learning journey, I am actively pursuing the following industry-recognized certifications:
+
+- ☁️ **AWS Certified DevOps Engineer – Professional**
+- ☸️ **Certified Kubernetes Administrator (CKA)**
+- 🛠️ **HashiCorp Certified: Terraform Associate**
+- 🧩 **Red Hat Certified Specialist in Ansible Automation**
+
+📚 I am also completing a comprehensive **DevSecOps Diploma (360 hours)** covering:
+
+- 🔐 Security tools: CEH v12, OWASP Top 10, SIEM
+- 🐧 Linux, Bash scripting, Python
+- 🐳 Docker, Kubernetes, OpenShift
+- 🧪 Jenkins, GitHub Actions, GitLab CI, Argo CD
+- 📦 Infrastructure as Code: Terraform, Ansible
+- 📊 Monitoring: Prometheus, Grafana, Kibana
+- ☁️ Multi-cloud operations: AWS, Azure
+
+This program strengthens my expertise in securing and automating infrastructure, CI/CD pipelines, and cloud-native workloads.
+
+---
+---
+
+📫 **Let's Connect**
+
+If you’re interested in working together or have any questions, feel free to reach out:
+
+- 📧 Email: mostafa.bendary1989@gmail.com
+- 💼 LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)  
+- 💻 GitHub: [github.com/yourusername](https://github.com/yourusername)
+
+Thanks for checking out my portfolio!
+
+
 
 
 ![GitHub Profile Views](https://komarev.com/ghpvc/?username=Mostafa-Bendo&style=flat-square)
