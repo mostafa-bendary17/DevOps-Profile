@@ -90,29 +90,19 @@ Welcome to my GitHub profile! I'm passionate about designing and implementing CI
 
 ---
 
-# 🧰 IT & System Administration Skills
+### 🏆 Achievements & Process Improvement
+- 📌 Part of the core team that achieved the **CMMI Certification** for Watan Company  
+- 📂 Prepared and documented all required processes, workflows, and **CM audit** materials for CMMI assessments  
 
-- 📦 Installing and maintaining desktop/laptop environments **(Windows, Linux, macOS)**.
-- 🧑‍💻 **Providing technical support** for office systems, productivity tools, and applications.
-- 🛠 **Troubleshooting hardware and software issues** across multiple environments.
-- 💬 Supporting end users with onboarding/offboarding, **remote assistance**, and IT policy guidance.
-- 🖨️ Installing and maintaining shared **printers, scanners**, and multifunction devices
-- 🧑‍💻 Providing **L1/L2/L3 technical support** with high user satisfaction
-- ⚙️ Installing, configuring, and troubleshooting **AD DS, DNS, DHCP, GPO**, and File Server  
-- 📂 Managing **Group Policies**, login scripts, and user/computer objects in Active Directory
-- 📁 Administering **file servers, shared permissions**, NTFS security, and storage quotas.
-- 👥 Administering **local and remote user accounts**, security groups, and organizational units (OUs)
-- 👤 Creating, managing, and auditing user accounts, groups, and OUs in Active Directory.
-- 🌐 Installing and configuring routers, switches, and access points (Cisco, MikroTik, TP-Link, Ubiquiti).
-- 🔐 Configuring and managing **firewalls such as Sophos, and MikroTik** for secure network access.
-- 🧱 Deploying and managing virtual machines using **VMware and Hyper-V**.
-- ♻️ Planning and implementing backup solutions **SQL Backup**.
-- 🛡️ Enforcing IT security policies, patch management, and endpoint protection **ESET, Sophos**.
-- 📏 Ensuring compliance with IT operational standards and documentation best practices.
-- 📝 Writing SOPs, **IT documentation, topology diagrams, and asset inventories**.
-- 🔄 Automating routine tasks using **PowerShell, Bash scripts**, and scheduled tasks.
-- 🌐 **Diagnosing and resolving network connectivity issues**.
-- 📏 **Enforcing compliance** with IT policies and operational standards.
+---
+
+### 🐧 Linux & ERP Server Administration
+- 🖥️ Installed, configured, and administered **Ubuntu Server** to host and manage an **ERP system**
+- 🔧 Performed server hardening, network configuration, application setup, and daily maintenance
+
+---
+
+
 
 ---
 
@@ -164,6 +154,32 @@ Each environment featured:
     - **Firebase** for Android testers.
     - **TestFlight** for iOS testers.
   - Sends notifications via **SendGrid** to testers after successful builds.
+
+---
+
+# 🧰 IT & System Administration Skills
+
+- 📦 Installing and maintaining desktop/laptop environments **(Windows, Linux, macOS)**.
+- 🧑‍💻 **Providing technical support** for office systems, productivity tools, and applications.
+- 🛠 **Troubleshooting hardware and software issues** across multiple environments.
+- 💬 Supporting end users with onboarding/offboarding, **remote assistance**, and IT policy guidance.
+- 🖨️ Installing and maintaining shared **printers, scanners**, and multifunction devices
+- 🧑‍💻 Providing **L1/L2/L3 technical support** with high user satisfaction
+- ⚙️ Installing, configuring, and troubleshooting **AD DS, DNS, DHCP, GPO**, and File Server  
+- 📂 Managing **Group Policies**, login scripts, and user/computer objects in Active Directory
+- 📁 Administering **file servers, shared permissions**, NTFS security, and storage quotas.
+- 👥 Administering **local and remote user accounts**, security groups, and organizational units (OUs)
+- 👤 Creating, managing, and auditing user accounts, groups, and OUs in Active Directory.
+- 🌐 Installing and configuring routers, switches, and access points (Cisco, MikroTik, TP-Link, Ubiquiti).
+- 🔐 Configuring and managing **firewalls such as Sophos, and MikroTik** for secure network access.
+- 🧱 Deploying and managing virtual machines using **VMware and Hyper-V**.
+- ♻️ Planning and implementing backup solutions **SQL Backup**.
+- 🛡️ Enforcing IT security policies, patch management, and endpoint protection **ESET, Sophos**.
+- 📏 Ensuring compliance with IT operational standards and documentation best practices.
+- 📝 Writing SOPs, **IT documentation, topology diagrams, and asset inventories**.
+- 🔄 Automating routine tasks using **PowerShell, Bash scripts**, and scheduled tasks.
+- 🌐 **Diagnosing and resolving network connectivity issues**.
+- 📏 **Enforcing compliance** with IT policies and operational standards.
 
 ---
 
