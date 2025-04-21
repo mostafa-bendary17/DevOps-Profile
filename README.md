@@ -99,6 +99,26 @@ These highlight your background in classic IT infrastructure and support:
 - Deploying software remotely using **SCCM**, **GPO**, and scripting
 - Installing and maintaining shared **printers, scanners**, and multifunction devices
 - Providing **L1/L2/L3 technical support** with high user satisfaction
+🖥️ Managing Windows Server environments (2008–2019) including AD, DNS, DHCP, WSUS, and Group Policy.  
+👤 Creating, managing, and auditing user accounts, groups, and OUs in Active Directory.  
+🌐 Installing and configuring routers, switches, and access points (Cisco, MikroTik, TP-Link, Ubiquiti).  
+🔐 Configuring and managing firewalls such as Sophos, FortiGate, and MikroTik for secure network access.  
+📡 Establishing and troubleshooting VPN connections (SSL, IPSec, L2TP) for remote users.  
+🧑‍💻 Providing L1, L2, and L3 technical support for office systems, applications, and endpoints.  
+🛠 Troubleshooting hardware, software, and network issues across physical and virtual environments.  
+📦 Installing and maintaining desktop/laptop environments (Windows, Linux, macOS).  
+🖨️ Setting up and maintaining network printers, scanners, and shared office devices.  
+📁 Administering file servers, shared permissions, NTFS security, and storage quotas.  
+♻️ Planning and implementing backup solutions (Veeam, Acronis, Windows Backup).  
+🔥 Creating and testing disaster recovery strategies for business continuity.  
+🧱 Deploying and managing virtual machines using VMware vSphere, ESXi, and Hyper-V.  
+☁️ Integrating hybrid environments with Azure and AWS, including Azure AD Connect.  
+🔍 Monitoring system health and performance using Zabbix, PRTG, Grafana, and logs.  
+🛡️ Enforcing IT security policies, patch management, and endpoint protection (ESET, Sophos).  
+📏 Ensuring compliance with IT operational standards and documentation best practices.  
+📝 Writing SOPs, IT documentation, topology diagrams, and asset inventories.  
+💬 Supporting end users with onboarding/offboarding, remote assistance, and IT policy guidance.  
+🔄 Automating routine tasks using PowerShell, Bash scripts, and scheduled tasks.
 - 🛠 **Troubleshooting hardware and software issues** across multiple environments.
 - 🧑‍💻 **Providing technical support** for office systems, productivity tools, and applications.
 - 🌐 **Diagnosing and resolving network connectivity issues**.
