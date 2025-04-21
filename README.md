@@ -112,7 +112,7 @@ These highlight your background in classic IT infrastructure and support:
 Designed a complete **CI/CD architecture** using Azure Pipelines for 4 environments: Dev, Test, Preprod, Production.
 
 Each environment featured:
-- Separate **branch** (e.g., `dev`, `test`, `preprod`, `main`)
+- Separate **branch** (e.g., `dev`, `test`, `preproduction`, `production`)
 - Unique **subdomain** (e.g., `dev.example.com`)
 - Dedicated **IIS Application Pool**
 - Isolated **SQL Server database**
@@ -124,16 +124,15 @@ Each environment featured:
 ### 💻 .NET Core Web App Pipeline
 
 - Built a full CI/CD pipeline in **Azure Pipelines**.
-- Integrated **SonarQube** for code quality analysis and **unit testing**.
 - Used **custom appsettings** per environment.
-- Deployed to **Azure VMs** using Web Deploy.
+- Deployed to **Azure VMs** with environment-specific settings and isolated SQL databases.
 
 ---
 
 ## ⚛️ React Frontend Pipeline
 
 - Implemented a complete CI/CD pipeline using **Azure DevOps** for a React Single Page Application.
-- Deployed to **Azure VMs** with environment-specific settings and isolated SQL databases.
+- Deployed to **Azure VMs** with environment-specific settings.
 - Configure environment variable key and value in pipeline.
 
 ## 🅰️ Angular Frontend Pipeline
