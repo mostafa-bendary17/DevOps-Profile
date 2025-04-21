@@ -95,6 +95,10 @@ Welcome to my GitHub profile! I'm passionate about designing and implementing CI
 
 These highlight your background in classic IT infrastructure and support:
 
+- Supporting desktops/laptops running **Windows, macOS, Linux**
+- Deploying software remotely using **SCCM**, **GPO**, and scripting
+- Installing and maintaining shared **printers, scanners**, and multifunction devices
+- Providing **L1/L2/L3 technical support** with high user satisfaction
 - 🛠 **Troubleshooting hardware and software issues** across multiple environments.
 - 🧑‍💻 **Providing technical support** for office systems, productivity tools, and applications.
 - 🌐 **Diagnosing and resolving network connectivity issues**.
