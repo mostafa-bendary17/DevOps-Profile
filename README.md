@@ -71,7 +71,7 @@ Welcome to my GitHub profile! I'm passionate about designing and implementing CI
 - ![CompTIA A+](https://img.shields.io/badge/CompTIA%20A%2B-E10098?style=flat&logo=comptia&logoColor=white) **CompTIA A+ Certified Technician**
 - ![ICDL](https://img.shields.io/badge/ICDL-0066B3?style=flat&logo=icdl&logoColor=white) **International Computer Driving License**
 
-### 🎓 DevSecOps Diploma - 360 hours (In Progress)
+### 🎓 DevSecOps Diploma (360 hours) - In Progress
 
 - ✅ **Linux I & II**
 - ✅ **Bash Scripting**
