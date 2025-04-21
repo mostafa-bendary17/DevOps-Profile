@@ -64,12 +64,12 @@ Welcome to my GitHub profile! I'm passionate about designing and implementing CI
 
 ### 🏅 Official IT Certifications
 
-- ![MCSA](https://img.shields.io/badge/MCSA-0078D4?logo=microsoft&logoColor=white&style=flat) **Microsoft Certified: MCSA**
 - ![AZ-104](https://img.shields.io/badge/AZ--104%20Azure%20Administrator-0078D4?logo=microsoftazure&logoColor=white) **Microsoft Certified Azure Administrator Associate**
 - ![AZ-400](https://img.shields.io/badge/AZ--400%20Azure%20DevOps%20Expert-0078D4?logo=microsoftazure&logoColor=white) **Microsoft Certified Azure DevOps Engineer Expert**
 - ![Agile](https://img.shields.io/badge/Agile%20Certified-29ABE2?style=flat&logo=agile&logoColor=white) **Agile Practitioner Certification**
-- ![ICDL](https://img.shields.io/badge/ICDL-0066B3?style=flat&logo=icdl&logoColor=white) **International Computer Driving License**
+- ![MCSA](https://img.shields.io/badge/MCSA-0078D4?logo=microsoft&logoColor=white&style=flat) **Microsoft Certified: MCSA**
 - ![YPDN](https://img.shields.io/badge/YPDN%20Network%20Diploma-0052CC?style=flat&logo=graduation-cap&logoColor=white) **Youth Professional Diploma in Networking**
+- ![ICDL](https://img.shields.io/badge/ICDL-0066B3?style=flat&logo=icdl&logoColor=white) **International Computer Driving License**
 
 ### 🎓 DevSecOps Diploma (In Progress)
 
