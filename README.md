@@ -193,7 +193,11 @@ Key responsibilities included:
 - Installing and configuring **racks, routers, switches, access points, and firewalls** (Sophos, Microtech).
 - Executing **cable crimping**, patch panel work, and network node setup.
 - Deploying and maintaining **UPS systems** for power continuity.
+- Managed and configured **NVR IP camera systems** for surveillance.
+- Deployed **Grandstream call center solutions**, including extension configuration and network integration.
+- Set up and maintained **on-premises servers**, including **Domain Controllers** and **network backup storage** for business continuity.
 - Ensured **secure, high-availability** networking across all branches.
+
 
 ---
 ---
