@@ -90,10 +90,13 @@ Welcome to my GitHub profile! I'm passionate about designing and implementing CI
 
 ---
 
-### 🏆 Achievements & Process Improvement
-- 📌 Part of the core team that achieved the **CMMI Certification** for Watan Company  
-- 📂 Prepared and documented all required processes, workflows, and **CM audit** materials for CMMI assessments  
+## 🏆 Achievements & Process Improvement
 
+📌 Part of the core team that achieved the **CMMI Certification** for Watan First Digital Company  
+📂 Prepared and documented all required processes, workflows, and CM audit materials for CMMI assessments  
+🎖️ Honored as the **Best Employee of the Quarter** at Watan First Digital Company  
+🎖️ Honored as the **Best Employee of the Month** at my first company
+  
 ---
 
 ### 🐧 Linux & ERP Server Administration
