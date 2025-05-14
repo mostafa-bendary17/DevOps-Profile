@@ -105,8 +105,6 @@ Welcome to my GitHub profile! I'm passionate about designing and implementing CI
 
 ---
 
-
-
 ---
 
 ## 🏗️ Key DevOps Projects & Achievements
@@ -139,14 +137,20 @@ Each environment featured:
 - Deployed to **Azure VMs** with environment-specific settings.
 - Configure environment variable key and value in pipeline.
 
+---
+
 ## 🅰️ Angular Frontend Pipeline
 
 - End-to-end CI/CD pipeline for Angular.
 - Configured isolated environments and environment-specific settings.
 
+---
+
 ### 🐍 ERP System (Python) CI/CD Pipeline
 
 - Developed CI/CD for a Python-based ERP system on **Ubuntu Server**.
+
+---
 
 ## 📱 Flutter Mobile CI/CD Pipeline
 
@@ -201,8 +205,6 @@ Key responsibilities included:
 - Set up and maintained **on-premises servers**, including **Domain Controllers** and **network backup storage** for business continuity.
 - Ensured **secure, high-availability** networking across all branches.
 
-
----
 ---
 
 🎯 **Ongoing Certifications & DevSecOps Training**
@@ -226,7 +228,6 @@ As part of my continuous learning journey, I am actively pursuing the following 
 
 This program strengthens my expertise in securing and automating infrastructure, CI/CD pipelines, and cloud-native workloads.
 
----
 ---
 
 📫 **Let's Connect**
