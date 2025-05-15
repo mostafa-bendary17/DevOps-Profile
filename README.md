@@ -11,10 +11,10 @@ Welcome to my GitHub profile! I'm passionate about designing and implementing CI
 - 🔭 Currently working as a **DevOps Engineer** at **Watan First Digital**.
 - 🌱 Lifelong learner exploring **cloud computing**, **containerization**, **DevSecOps**, and **infrastructure automation**.
 - 💼 Over **12 years of experience** in IT infrastructure, system administration, and DevOps engineering.
-- 📫 Reach me at: **mostafa.bendary1989@gmail.com**  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mostafa-el-bendary/)  
 
-  ## 📬 Social & Contact Info
+---
+
+## 📬 Social & Contact Info
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mostafa.bendary1989@gmail.com)
 [![Hotmail](https://img.shields.io/badge/Hotmail-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:mostafa.bendary1989@hotmail.com)
