@@ -13,7 +13,13 @@ Welcome to my GitHub profile! I'm passionate about designing and implementing CI
 - 💼 Over **12 years of experience** in IT infrastructure, system administration, and DevOps engineering.
 - 📫 Reach me at: **mostafa.bendary1989@gmail.com**  
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mostafa-el-bendary/)  
-  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/YourHandle)
+
+  ## 📬 Social & Contact Info
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mostafa.bendary1989@gmail.com)
+[![Hotmail](https://img.shields.io/badge/Hotmail-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:mostafa.bendary1989@hotmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mostafa-el-bendary)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mostafa-bendary17)
 
 ---
 
