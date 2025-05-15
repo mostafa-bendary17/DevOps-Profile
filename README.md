@@ -228,16 +228,6 @@ As part of my continuous learning journey, I am actively pursuing the following 
 
 This program strengthens my expertise in securing and automating infrastructure, CI/CD pipelines, and cloud-native workloads.
 
----
-
-📫 **Let's Connect**
-
-If you’re interested in working together or have any questions, feel free to reach out:
-
-- 📧 Email: mostafa.bendary1989@gmail.com
-- 💼 LinkedIn: [My Linkedin Profile](https://www.linkedin.com/in/mostafa-el-bendary/)  
-- 💻 GitHub: [My Github Portfolio](https://github.com/mostafa-bendary17/DevOps-Profile)
-
 ----
 ## 📊 GitHub Statistics
 
@@ -254,11 +244,19 @@ If you’re interested in working together or have any questions, feel free to r
   </tr>
 </table>
 
-Thanks for checking out my portfolio!
-
-
+---
 
 
 ![GitHub Profile Views](https://komarev.com/ghpvc/?username=Mostafa-Bendo&style=flat-square)
 
 ---
+
+📫 **Let's Connect**
+
+If you’re interested in working together or have any questions, feel free to reach out:
+
+- 📧 Email: mostafa.bendary1989@gmail.com
+- 💼 LinkedIn: [My Linkedin Profile](https://www.linkedin.com/in/mostafa-el-bendary/)  
+- 💻 GitHub: [My Github Portfolio](https://github.com/mostafa-bendary17/DevOps-Profile)
+
+Thanks for checking out my portfolio!
