@@ -246,11 +246,6 @@ This program strengthens my expertise in securing and automating infrastructure,
 
 ---
 
-
-![GitHub Profile Views](https://komarev.com/ghpvc/?username=Mostafa-Bendo&style=flat-square)
-
----
-
 📫 **Let's Connect**
 
 If you’re interested in working together or have any questions, feel free to reach out:
@@ -258,5 +253,10 @@ If you’re interested in working together or have any questions, feel free to r
 - 📧 Email: mostafa.bendary1989@gmail.com
 - 💼 LinkedIn: [My Linkedin Profile](https://www.linkedin.com/in/mostafa-el-bendary/)  
 - 💻 GitHub: [My Github Portfolio](https://github.com/mostafa-bendary17/DevOps-Profile)
+
+---
+
+
+![GitHub Profile Views](https://komarev.com/ghpvc/?username=Mostafa-Bendo&style=flat-square)
 
 Thanks for checking out my portfolio!
