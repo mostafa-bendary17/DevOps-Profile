@@ -261,7 +261,12 @@ If you’re interested in working together or have any questions, feel free to r
 - 💻 GitHub: [My Github Portfolio](https://github.com/mostafa-bendary17/DevOps-Profile)
 
 ---
+## 📬 Social & Contact Info
 
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mostafa.bendary1989@gmail.com)
+[![Hotmail](https://img.shields.io/badge/Hotmail-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:mostafa.bendary1989@hotmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mostafa-el-bendary)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mostafa-bendary17)
 
 ![GitHub Profile Views](https://komarev.com/ghpvc/?username=Mostafa-Bendo&style=flat-square)
 
