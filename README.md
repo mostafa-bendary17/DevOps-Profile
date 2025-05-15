@@ -238,6 +238,22 @@ If you’re interested in working together or have any questions, feel free to r
 - 💼 LinkedIn: [My Linkedin Profile](https://www.linkedin.com/in/mostafa-el-bendary/)  
 - 💻 GitHub: [My Github Portfolio](https://github.com/mostafa-bendary17/DevOps-Profile)
 
+----
+## 📊 GitHub Statistics
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <h2>🔥 GitHub Stats</h2>
+      <img src="https://github-readme-stats.vercel.app/api?username=mostafa-bendary17&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="500" />
+    </td>
+    <td align="center" width="50%">
+      <h2>🚀 Most Used Languages</h2>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mostafa-bendary17&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" width="500" />
+    </td>
+  </tr>
+</table>
+
 Thanks for checking out my portfolio!
 
 
